@@ -4,8 +4,8 @@
 node_modules
 logs
 .env
-package-look.json
+# package-look.json
 
 /client/node_modules
-/client/package-look.json
+# /client/package-look.json
 /client/.env
