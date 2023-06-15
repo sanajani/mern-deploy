@@ -5,7 +5,6 @@ node_modules
 logs
 .env
 package-look.json
-package.json
 
 /client/node_modules
 /client/package-look.json
